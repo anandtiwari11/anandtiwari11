@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/enuf_anand" target="blank"><img src="https://img.shields.io/twitter/follow/enuf_anand?logo=twitter&style=for-the-badge" alt="enuf_anand" /></a> </p>
 
-- 🔭 I’m currently working with Dehaat as a Software Developer Intern [Input-Backend](https://github.com/anandtiwari11/input-backend)
+- 🔭 I’m currently working with Dehaat as a Software Developer Intern
 
 - 🌱 I’m currently learning **Django Restapi Framework**
 
