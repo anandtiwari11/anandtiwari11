@@ -1,4 +1,4 @@
-
+[![MasterHead](https://github.com/anandtiwari11/images/blob/main/DALL%C2%B7E%202024-10-07%2019.45.55%20-%20A%20sleek%20and%20modern%20banner%20design%20for%20a%20GitHub%20profile%2C%20featuring%20an%20abstract%20coding%20background%20with%20lines%20of%20code%20and%20digital%20patterns.%20The%20background.webp)](https://www.stopstalk.com/user/profile/anandnormie)
 
 <h1 align="center">Hi 👋, I'm Anand Tiwari</h1>
 <h3 align="center">A Competitive Programmer and Software Developer and currently working as a Software Developer Intern at DeHaat</h3>
