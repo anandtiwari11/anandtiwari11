@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anandtiwaricoding@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YLkTYQCuLNqMl52JpXclWSEfj_TecXtt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SC-zonJS_OX-qPEbyDN4eyhZfHKudNor/view?usp=drive_link)
 
 - ⚡ Fun fact **I think i am funny**
 
