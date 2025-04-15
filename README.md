@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working with Dehaat as a Software Developer Intern
 
-- 🌱 I’m currently learning **Django Restapi Framework**
+- 🌱 I’m currently learning **Django and Golang**
 
-- 💬 Ask me about **react, django, nodejs, competitive programming**
+- 💬 Ask me about **GO, Django, C++, competitive programming**
 
 - 📫 How to reach me **anandtiwaricoding@gmail.com**
 
