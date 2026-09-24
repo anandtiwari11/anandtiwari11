@@ -1,0 +1,12 @@
+{
+  // Rules tuned for GitHub profile READMEs, which commonly use inline HTML,
+  // centered badges, and long lines.
+  "config": {
+    "default": true,
+    "MD013": false, // line length: badge/HTML rows are long
+    "MD033": false, // inline HTML: profile READMEs rely on it
+    "MD041": false, // first line need not be a top-level heading
+    "MD036": false  // emphasis used as pseudo-headings for styling
+  },
+  "globs": ["../../README.md"]
+}
