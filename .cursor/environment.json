@@ -1,4 +1,17 @@
 {
   "name": "anandtiwari11 Profile README",
-  "install": "./.cursor/install.sh"
+  "install": "./.cursor/install.sh",
+  "terminals": [
+    {
+      "name": "readme-preview",
+      "command": "node .cursor/preview/server.mjs",
+      "description": "Live GitHub-flavored markdown preview of README.md on port 3000 (auto-refreshes on save)."
+    }
+  ],
+  "ports": [
+    {
+      "name": "README preview",
+      "port": 3000
+    }
+  ]
 }
